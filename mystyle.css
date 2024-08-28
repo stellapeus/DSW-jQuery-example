@@ -11,3 +11,12 @@ img{
 	width: 20%;
 	display: none;
 }
+
+.bright{
+	color: red;
+	background-color: yellow;
+}
+
+.border{
+	border: 25px solid black;
+}
