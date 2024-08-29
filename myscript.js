@@ -7,3 +7,7 @@ $(document).ready(function() {
 		$("img").addClass("border");
 	});
 });
+$("#p1").click(function(){
+	$(".disappear").toggle();
+	
+});
